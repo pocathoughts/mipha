@@ -200,8 +200,8 @@ header.masthead h2 {
 
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
-    padding-bottom: 6rem;
+    padding-top: calc(2rem + 106px);
+    padding-bottom: 15rem;
   }
   header.masthead h1 {
     font-size: 4.75em;
@@ -478,33 +478,66 @@ a:focus, a:hover, a:active {
   der: 1px solid rgba(0, 0, 0, 0.15);*/
 }
 
+
+.aquamarine-header-image {
+  background: url('../img/backgrounds/secondPage.jpg'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+}
+
+.beach-image {
+  background: url('../img/backgrounds/beach.jpg'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+}
+
+
+.platform-image {
+  background: url('../img/backgrounds/platform.jpg'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+}
+
+
+.home-header-image {
+  background: url('../img/backgrounds/gray2.png'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: 75% 50%;
+}
+
+
+
 /* Desktop */
-@media screen and (min-width: 992px) {
+/* @media screen and (min-width: 992px) {
   .home-header-image {
 
     background: url('../img/backgrounds/gray2.png') no-repeat center center fixed; 
-
+    background-position: 50% 70%;
     background-size: cover;
   }
-}
+} */
 
 /* Tablet Large */
-@media screen and (max-width: 991px) {
+/* @media screen and (max-width: 991px) {
   .home-header-image {
     background: url('../img/backgrounds/medium.png') no-repeat center center fixed; 
     background-size: cover;
 
   }
-}
+} */
 
 /* Small Tablet */
-@media screen and (max-width: 750px) {
+/* @media screen and (max-width: 750px) {
   .home-header-image {
     background: url('../img/backgrounds/small.png') no-repeat center center fixed; 
     background-size: cover;
 
   }
-}
+} */
 
 
 
