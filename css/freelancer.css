@@ -112,22 +112,6 @@ section h2 {
 }
 
 
-#mainNav .navbar-nav li.nav-item a.nav-link {
-  color: #fff;
-}
-
-#mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #8693AB;
-}
-
-#mainNav .navbar-nav li.nav-item a.nav-link:active,  .navbar-nav li.nav-item a.nav-link:focus {
-  color: #fff;
-}
-
-#mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #8693AB;
-}
-
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.8rem;
@@ -140,13 +124,6 @@ section h2 {
   color: #002953 !important;
 }
 
-.navbar {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
-}
-
-.navbar li { color: #000 } 
 
 @media (min-width: 992px) {
   #mainNav {
@@ -166,7 +143,7 @@ section h2 {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #fff;
+    color: #002953;
     background: #575757;
     border-radius: 0px !important;
   }
@@ -350,10 +327,6 @@ form .row:first-child .floating-label-form-group {
   font-family: Open Sans, sans-serif;
 }
 
-a {
-  color: #fbd630;
-}
-
 a:focus, a:hover, a:active {
   color: #fbd630;
 }
@@ -363,7 +336,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #353c66 !important;
+  background-color: #0a1442 !important;
   border-radius: 0 !important;
 }
 
@@ -480,10 +453,10 @@ a:focus, a:hover, a:active {
 
 
 .aquamarine-header-image {
-  background: url('../img/backgrounds/secondPage.jpg'); 
+  background: url('../img/backgrounds/platform.jpg'); 
   background-repeat:no-repeat;
   background-size: cover;
-  background-position: bottom center;
+  background-position: center center;
 }
 
 .beach-image {
@@ -495,7 +468,7 @@ a:focus, a:hover, a:active {
 
 
 .platform-image {
-  background: url('../img/backgrounds/platform.jpg'); 
+  background: url('../img/backgrounds/beach2.jpg'); 
   background-repeat:no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -503,7 +476,15 @@ a:focus, a:hover, a:active {
 
 
 .home-header-image {
-  background: url('../img/backgrounds/gray2.png'); 
+  background: url('../img/backgrounds/darkened.png'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: 45% 60%;
+}
+
+
+.city-image {
+  background: url('../img/backgrounds/houston.jpg'); 
   background-repeat:no-repeat;
   background-size: cover;
   background-position: 75% 50%;

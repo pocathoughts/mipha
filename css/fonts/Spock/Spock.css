@@ -1,0 +1,360 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3898320, 2020-05-04T04:48:28-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: SpockPro-Thin by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-thin/
+ * 
+ * Webfont: SpockPro-ThinIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-thin-italic/
+ * 
+ * Webfont: SpockPro-UltraLight by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-ultra-light/
+ * 
+ * Webfont: SpockPro-UltraLightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-ultra-light-italic/
+ * 
+ * Webfont: SpockPro-Light by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-light/
+ * 
+ * Webfont: SpockPro-LightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-light-italic/
+ * 
+ * Webfont: SpockPro-Regular by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-regular/
+ * 
+ * Webfont: SpockPro-RegularIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-regular-italic/
+ * 
+ * Webfont: SpockPro-Bold by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-bold/
+ * 
+ * Webfont: SpockPro-BoldIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-bold-italic/
+ * 
+ * Webfont: SpockPro-Black by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-black/
+ * 
+ * Webfont: SpockPro-BlackIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/pro-black-italic/
+ * 
+ * Webfont: SpockEss-Thin by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-thin/
+ * 
+ * Webfont: SpockEss-ThinIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-thin-italic/
+ * 
+ * Webfont: SpockEss-UltraLight by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-ultra-light/
+ * 
+ * Webfont: SpockEss-UltraLightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-ultra-light-italic/
+ * 
+ * Webfont: SpockEss-Light by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-light/
+ * 
+ * Webfont: SpockEss-LightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-light-italic/
+ * 
+ * Webfont: SpockEss-Regular by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-regular/
+ * 
+ * Webfont: SpockEss-RegularIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-regular-italic/
+ * 
+ * Webfont: SpockEss-Bold by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-bold/
+ * 
+ * Webfont: SpockEss-BoldIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-bold-italic/
+ * 
+ * Webfont: SpockEss-Black by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-black/
+ * 
+ * Webfont: SpockEss-BlackIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-black-italic/
+ * 
+ * Webfont: SpockEssAlt1-Thin by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-thin/
+ * 
+ * Webfont: SpockEssAlt1-ThinIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-thin-italic/
+ * 
+ * Webfont: SpockEssAlt1-UltraLight by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-ultra-light/
+ * 
+ * Webfont: SpockEssAlt1-UltraLightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-ultra-light-italic/
+ * 
+ * Webfont: SpockEssAlt1-Light by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-light/
+ * 
+ * Webfont: SpockEssAlt1-LightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-light-italic/
+ * 
+ * Webfont: SpockEssAlt1-Regular by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-regular/
+ * 
+ * Webfont: SpockEssAlt1-RegularIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-regular-italic/
+ * 
+ * Webfont: SpockEssAlt1-Bold by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-bold/
+ * 
+ * Webfont: SpockEssAlt1-BoldIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-bold-italic/
+ * 
+ * Webfont: SpockEssAlt1-Black by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-black/
+ * 
+ * Webfont: SpockEssAlt1-BlackIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt1-black-italic/
+ * 
+ * Webfont: SpockEssAlt2-Thin by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-thin/
+ * 
+ * Webfont: SpockEssAlt2-ThinIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-thin-italic/
+ * 
+ * Webfont: SpockEssAlt2-UltraLight by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-ultra-light/
+ * 
+ * Webfont: SpockEssAlt2-UltraLightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-ultra-light-italic/
+ * 
+ * Webfont: SpockEssAlt2-Light by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-light/
+ * 
+ * Webfont: SpockEssAlt2-LightIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-light-italic/
+ * 
+ * Webfont: SpockEssAlt2-Regular by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-regular/
+ * 
+ * Webfont: SpockEssAlt2-RegularIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-regular-italic/
+ * 
+ * Webfont: SpockEssAlt2-Bold by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-bold/
+ * 
+ * Webfont: SpockEssAlt2-BoldIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-bold-italic/
+ * 
+ * Webfont: SpockEssAlt2-Black by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-black/
+ * 
+ * Webfont: SpockEssAlt2-BlackIt by Los Andes
+ * URL: https://www.myfonts.com/fonts/los-andes/spock/essential-alt2-black-italic/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2020 by Cesar Araya, Rodrigo Fuenzalida, Luciano Vergara &amp; Latinotype Team. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3b7bd0");
+  
+@font-face {
+  font-family: 'SpockPro-Thin';
+  src: url('webFonts/SpockPro-Thin/font.woff2') format('woff2'), url('webFonts/SpockPro-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-Light';
+  src: url('webFonts/SpockPro-Light/font.woff2') format('woff2'), url('webFonts/SpockPro-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-ThinIt';
+  src: url('webFonts/SpockPro-ThinIt/font.woff2') format('woff2'), url('webFonts/SpockPro-ThinIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-UltraLightIt';
+  src: url('webFonts/SpockPro-UltraLightIt/font.woff2') format('woff2'), url('webFonts/SpockPro-UltraLightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-UltraLight';
+  src: url('webFonts/SpockPro-UltraLight/font.woff2') format('woff2'), url('webFonts/SpockPro-UltraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-Black';
+  src: url('webFonts/SpockEssAlt2-Black/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-BoldIt';
+  src: url('webFonts/SpockEssAlt2-BoldIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-BoldIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-Bold';
+  src: url('webFonts/SpockEssAlt2-Bold/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-RegularIt';
+  src: url('webFonts/SpockEssAlt2-RegularIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-RegularIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-Regular';
+  src: url('webFonts/SpockEssAlt2-Regular/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-LightIt';
+  src: url('webFonts/SpockEssAlt2-LightIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-LightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-Light';
+  src: url('webFonts/SpockEssAlt2-Light/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-UltraLightIt';
+  src: url('webFonts/SpockEssAlt2-UltraLightIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-UltraLightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-UltraLight';
+  src: url('webFonts/SpockEssAlt2-UltraLight/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-UltraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-ThinIt';
+  src: url('webFonts/SpockEssAlt2-ThinIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-ThinIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-BlackIt';
+  src: url('webFonts/SpockEssAlt2-BlackIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-BlackIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-BlackIt';
+  src: url('webFonts/SpockEssAlt1-BlackIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-BlackIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-Black';
+  src: url('webFonts/SpockEssAlt1-Black/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-Bold';
+  src: url('webFonts/SpockEssAlt1-Bold/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt2-Thin';
+  src: url('webFonts/SpockEssAlt2-Thin/font.woff2') format('woff2'), url('webFonts/SpockEssAlt2-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-RegularIt';
+  src: url('webFonts/SpockEssAlt1-RegularIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-RegularIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-BoldIt';
+  src: url('webFonts/SpockEssAlt1-BoldIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-BoldIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-Regular';
+  src: url('webFonts/SpockEssAlt1-Regular/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-LightIt';
+  src: url('webFonts/SpockEssAlt1-LightIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-LightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-Light';
+  src: url('webFonts/SpockEssAlt1-Light/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-UltraLightIt';
+  src: url('webFonts/SpockEssAlt1-UltraLightIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-UltraLightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-Thin';
+  src: url('webFonts/SpockEssAlt1-Thin/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-UltraLight';
+  src: url('webFonts/SpockEssAlt1-UltraLight/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-UltraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-Black';
+  src: url('webFonts/SpockEss-Black/font.woff2') format('woff2'), url('webFonts/SpockEss-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEssAlt1-ThinIt';
+  src: url('webFonts/SpockEssAlt1-ThinIt/font.woff2') format('woff2'), url('webFonts/SpockEssAlt1-ThinIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-BlackIt';
+  src: url('webFonts/SpockEss-BlackIt/font.woff2') format('woff2'), url('webFonts/SpockEss-BlackIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-BoldIt';
+  src: url('webFonts/SpockEss-BoldIt/font.woff2') format('woff2'), url('webFonts/SpockEss-BoldIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-Bold';
+  src: url('webFonts/SpockEss-Bold/font.woff2') format('woff2'), url('webFonts/SpockEss-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-RegularIt';
+  src: url('webFonts/SpockEss-RegularIt/font.woff2') format('woff2'), url('webFonts/SpockEss-RegularIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-Light';
+  src: url('webFonts/SpockEss-Light/font.woff2') format('woff2'), url('webFonts/SpockEss-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-LightIt';
+  src: url('webFonts/SpockEss-LightIt/font.woff2') format('woff2'), url('webFonts/SpockEss-LightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-Regular';
+  src: url('webFonts/SpockEss-Regular/font.woff2') format('woff2'), url('webFonts/SpockEss-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-UltraLightIt';
+  src: url('webFonts/SpockEss-UltraLightIt/font.woff2') format('woff2'), url('webFonts/SpockEss-UltraLightIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-UltraLight';
+  src: url('webFonts/SpockEss-UltraLight/font.woff2') format('woff2'), url('webFonts/SpockEss-UltraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-ThinIt';
+  src: url('webFonts/SpockEss-ThinIt/font.woff2') format('woff2'), url('webFonts/SpockEss-ThinIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockEss-Thin';
+  src: url('webFonts/SpockEss-Thin/font.woff2') format('woff2'), url('webFonts/SpockEss-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-Black';
+  src: url('webFonts/SpockPro-Black/font.woff2') format('woff2'), url('webFonts/SpockPro-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-BlackIt';
+  src: url('webFonts/SpockPro-BlackIt/font.woff2') format('woff2'), url('webFonts/SpockPro-BlackIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-Regular';
+  src: url('webFonts/SpockPro-Regular/font.woff2') format('woff2'), url('webFonts/SpockPro-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-Bold';
+  src: url('webFonts/SpockPro-Bold/font.woff2') format('woff2'), url('webFonts/SpockPro-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-RegularIt';
+  src: url('webFonts/SpockPro-RegularIt/font.woff2') format('woff2'), url('webFonts/SpockPro-RegularIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-BoldIt';
+  src: url('webFonts/SpockPro-BoldIt/font.woff2') format('woff2'), url('webFonts/SpockPro-BoldIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'SpockPro-LightIt';
+  src: url('webFonts/SpockPro-LightIt/font.woff2') format('woff2'), url('webFonts/SpockPro-LightIt/font.woff') format('woff');
+}
+
+.Spock-Bold {
+	font-family: SpockPro-Black !important;
+}
