@@ -104,9 +104,11 @@ section h2 {
 
 #mainNav .navbar-brand {
   color: #fff;
+  font-size: 80%;
 }
 
 #mainNav .navbar-nav {
+  font-size: 80%;
   margin-top: 1rem;
   letter-spacing: 0.0625rem;
 }
@@ -144,7 +146,7 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #002953;
-    background: #575757;
+    background: #fbd630;
     border-radius: 0px !important;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
@@ -457,6 +459,7 @@ a:focus, a:hover, a:active {
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center center;
+  height: 100vh;
 }
 
 .beach-image {
@@ -480,6 +483,7 @@ a:focus, a:hover, a:active {
   background-repeat:no-repeat;
   background-size: cover;
   background-position: 45% 60%;
+  height: 100vh;
 }
 
 
@@ -521,7 +525,7 @@ a:focus, a:hover, a:active {
 } */
 
 
-
+/* 
 @media screen and (min-width: 570px) {
   .header-spacing {
     padding-bottom: 100px;
@@ -539,8 +543,15 @@ a:focus, a:hover, a:active {
   .header-spacing {
     padding-bottom: 30px;
   }
+} */
+
+.header-spacing {
+  padding-top: 30vh;
 }
 
+.home-header-spacing {
+  padding-top: 32vh;
+}
 
 
 
