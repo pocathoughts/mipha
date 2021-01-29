@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1,
@@ -10,7 +10,7 @@ h5,
 h6,
 p {
   font-weight: 100;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #555555;
 }
 
@@ -482,7 +482,14 @@ a:focus, a:hover, a:active {
   background: url('../img/backgrounds/darkened.png'); 
   background-repeat:no-repeat;
   background-size: cover;
-  background-position: 45% 60%;
+  background-position: 50%;
+  height: 100vh;
+}
+
+.new-home-header-image {
+  background: url('../img/backgrounds/newHomePage.jpg'); 
+  background-repeat:no-repeat;
+  background-size: cover;
   height: 100vh;
 }
 

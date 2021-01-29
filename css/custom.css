@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .b {
@@ -47,6 +47,11 @@ body {
         width: 20%;
         float: left;
     }
+}
+
+.boldHeader {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
 }
 
 .col-xs-2{
@@ -111,7 +116,7 @@ body {
 }
 
 a.navbar-brand, a.logo {
-  font-family: "Roboto", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   color: #fff !important;
   margin-top: 0; 
 
@@ -140,22 +145,22 @@ video {
 }
 
 .header-text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
 }
 
 .mont {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
 }
 
 .mont-light {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
 }
 
 .mont-extra-light {
- font-family: Montserrat, sans-serif;
+ font-family: 'Source Sans Pro', sans-serif;
   font-weight: 100;
 }
 
@@ -778,7 +783,7 @@ body {
 }
 
 .navbar {
-  background-color: transparent !important;
+  background-color: #0a1442 !important;
   color:white !important;
 }
 
