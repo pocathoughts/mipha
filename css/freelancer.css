@@ -25,6 +25,10 @@ hr.star-dark {
   margin-bottom: 2.5rem;
 }
 
+.accent-color {
+  color:#15aa9e;
+}
+
 hr.star-light:after,
 hr.star-dark:after {
   position: relative;
@@ -146,12 +150,12 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #002953;
-    background: #fbd630;
+    background: #15aa9e;
     border-radius: 0px !important;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #002953 !important;
-    background: #fbd630;
+    background: #15aa9e;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -491,8 +495,18 @@ a:focus, a:hover, a:active {
   background-repeat:no-repeat;
   background-size: cover;
   height: 100vh;
+  background-position: 60% 10%;
 }
 
+.houston-background
+{
+  background: url('../img/backgrounds/Houston.png'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 40vh;
+  background-position: bottom;
+  opacity: 40%;
+}
 
 .city-image {
   background: url('../img/backgrounds/houston.jpg'); 
