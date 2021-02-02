@@ -1,0 +1,42 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4006287, 2021-02-01T23:00:51-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Brother1816Printed-Light by TipoType
+ * URL: https://www.myfonts.com/fonts/tipotype/brother-1816/printed-light/
+ * 
+ * Webfont: Brother-1816-Bold by TipoType
+ * URL: https://www.myfonts.com/fonts/tipotype/brother-1816/bold/
+ * 
+ * 
+ * Webfonts copyright: Copyright (c) 2016 by Ignacio Corbo and Fernando Diaz. All rights reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d218f");
+  
+@font-face {
+  font-family: "Brother-1816-Bold";
+  src: url('webFonts/Brother1816Bold/font.woff2') format('woff2'), url('webFonts/Brother1816Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Brother1816Printed-Light";
+  src: url('webFonts/Brother1816PrintedLight/font.woff2') format('woff2'), url('webFonts/Brother1816PrintedLight/font.woff') format('woff');
+}
+
+.Brother-Bold {
+	font-family: Brother-1816-Bold !important;
+}
+
+.Brother-Light {
+  font-family: Brother1816Printed-Light !important;
+}

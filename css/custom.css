@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Brother1816Printed-Light', sans-serif;
 }
 
 .b {
@@ -50,6 +50,10 @@ body {
 }
 
 .boldHeader {
+  font-family: 'Brother-1816-Bold', sans-serif;
+}
+
+.mainHeader {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
 }
