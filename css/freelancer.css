@@ -334,7 +334,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a:focus, a:hover, a:active {
-  color: #fbd630;
+  color: #15aa9e;
 }
 
 .btn {
@@ -342,7 +342,12 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #0a1442 !important;
+  background-color: #002953  !important;
+  border-radius: 0 !important;
+}
+
+.bg-accent {
+  background-color: #15aa9e  !important;
   border-radius: 0 !important;
 }
 
@@ -386,8 +391,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-bold:hover, .btn-bold:focus, .btn-bold:active {
-  background-color: #fbd630;
-  border-color: #fbd630;
+  background-color: #15aa9e;
+  border-color: #15aa9e;
   color: #353c66 !important;
 }
 
@@ -396,9 +401,9 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #fbd630;
-  border-color: #fbd630;
-  color: #fbd630 !important;
+  background-color: #15aa9e;
+  border-color: #15aa9e;
+  color: #15aa9e !important;
 }
 
 .btn-primary-outline {
@@ -410,8 +415,8 @@ a:focus, a:hover, a:active {
 }
 
  .btn-primary-outline:hover {
-  background-color: #fbd630;
-  border-color: #fbd630;
+  background-color: #15aa9e;
+  border-color: #15aa9e;
   color: #999a9e;
   border-width: 2px;
   border-radius: 0px !important;
@@ -574,6 +579,10 @@ a:focus, a:hover, a:active {
   padding-top: 32vh;
 }
 
+.home-header-spacing-mobile {
+  padding-top: 20vh;
+}
+
 
 
 /* The Modal (background) */
@@ -617,10 +626,10 @@ a:focus, a:hover, a:active {
 
 .close:hover,
 .close:focus {
-    color: #fbd630;
+    color: #15aa9e;
     text-decoration: none;
     cursor: pointer;
-    text-shadow: 0 1px 0 #fbd630;
+    text-shadow: 0 1px 0 #15aa9e;
 }
 
 .menu-button {
@@ -630,7 +639,7 @@ a:focus, a:hover, a:active {
 }
 
 .menu-button:hover {
-  color: #fbd630 !important;
+  color: #15aa9e !important;
 }
 
 
@@ -799,7 +808,7 @@ a:focus, a:hover, a:active {
    
 
 .btn-action:hover {
-    color: #fbd630;
+    color: #15aa9e;
     background-color: white;
 }
 
