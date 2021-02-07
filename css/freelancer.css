@@ -26,7 +26,7 @@ hr.star-dark {
 }
 
 .accent-color {
-  color:#15aa9e;
+  color:#fbd630;
 }
 
 hr.star-light:after,
@@ -500,7 +500,15 @@ a:focus, a:hover, a:active {
   background-repeat:no-repeat;
   background-size: cover;
   height: 100vh;
-  background-position: 60% 10%;
+  background-position: 10% 10%;
+}
+
+.new-home-header-image-mobile {
+  background: url('../img/backgrounds/newHomePage.png'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: 10% 10%;
 }
 
 .houston-background
