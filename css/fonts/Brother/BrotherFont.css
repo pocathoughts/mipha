@@ -23,7 +23,13 @@
 
 /* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/3d218f");
+@import url("//hello.myfonts.net/count/3d6d53");
   
+@font-face {
+  font-family: "Brother-1816-Light";
+  src: url('webFonts/Brother1816Light/font.woff2') format('woff2'), url('webFonts/Brother1816Light/font.woff') format('woff');
+}
+
 @font-face {
   font-family: "Brother-1816-Bold";
   src: url('webFonts/Brother1816Bold/font.woff2') format('woff2'), url('webFonts/Brother1816Bold/font.woff') format('woff');
@@ -38,5 +44,5 @@
 }
 
 .Brother-Light {
-  font-family: Brother1816Printed-Light !important;
+  font-family: Brother-1816-Light !important;
 }

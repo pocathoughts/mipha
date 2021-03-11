@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Urdu_Emad_Nastaliq';
+    src:url('Urdu_Emad_Nastaliq.ttf.woff') format('woff'),
+        url('Urdu_Emad_Nastaliq.ttf.svg#Urdu_Emad_Nastaliq') format('svg'),
+        url('Urdu_Emad_Nastaliq.ttf.eot'),
+        url('Urdu_Emad_Nastaliq.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Tahoma {
+    font-family: 'Urdu_Emad_Nastaliq';
+}

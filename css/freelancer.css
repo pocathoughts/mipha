@@ -1,5 +1,9 @@
+html, body {
+  height: 100%;
+}
+
 body {
-  font-family: 'Brother1816Printed-Light', sans-serif;
+  font-family: 'Brother-1816-Light', sans-serif;
 }
 
 h1,
@@ -10,7 +14,7 @@ h5,
 h6,
 p {
   font-weight: 100;
-  font-family:'Brother1816Printed-Light', sans-serif;
+  font-family:'Brother-1816-Light', sans-serif;
   color: #555555;
 }
 
@@ -107,7 +111,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: black;
   font-size: 80%;
 }
 
@@ -121,7 +125,7 @@ section h2 {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.8rem;
-  color: white !important;
+  color: black !important;
 }
 
 #mainNav .navbar-toggler:hover {
@@ -150,12 +154,12 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #002953;
-    background: #15aa9e;
+    background: #fbd630;
     border-radius: 0px !important;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #002953 !important;
-    background: #15aa9e;
+    background: #fbd630;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -496,11 +500,12 @@ a:focus, a:hover, a:active {
 }
 
 .new-home-header-image {
-  background: url('../img/backgrounds/newHomePage.png'); 
+  background: url('../img/backgrounds/newnewHomePage.png'); 
   background-repeat:no-repeat;
   background-size: cover;
-  height: 100vh;
-  background-position: 10% 10%;
+  height: 100%;
+  min-height: 100%;
+  background-position: 70% 10%;
 }
 
 .new-home-header-image-mobile {
@@ -647,29 +652,7 @@ a:focus, a:hover, a:active {
 }
 
 .menu-button:hover {
-  color: #15aa9e !important;
-}
-
-
-.leverage-image {
-  background-image: url('../img/realtor-images/Leverage-Large.png');
-  background-size: cover;
-}
-
-.impress-image {
-  background-image: url('../img/realtor-images/Impress-Large.png');
-  background-size: cover;
-
-}
-
-.nomorechecks-image {
-  background-image: url('../img/realtor-images/NoMoreChecks-Large.png');
-  background-size: cover;
-}
-
-.domore-image {
-  background-image: url('../img/realtor-images/DoMore-Large.png');
-  background-size: cover;
+  color: #fbd630 !important;
 }
 
 .fill {
