@@ -798,6 +798,10 @@ body {
   color: white;
 }
 
+.bg-web-blue {
+  background-color: #353c66;
+}
+
 /* Change navbar styling on small viewports */
 @media (max-width: 991.98px) {
   .navbar {
