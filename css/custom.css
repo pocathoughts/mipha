@@ -50,8 +50,7 @@ body {
 }
 
 .boldHeader {
-  font-family: Brother-1816-Light !important;
-  color: #353c66 !important;
+  font-family: Tahoma !important;
 }
 
 .mainHeader {
@@ -207,11 +206,19 @@ video {
 }
 
 .a:hover  .b{
-  background-color: #15aa9e !important;
+  background-color: #fbd630 !important;
 }
 
 .a:hover  .c{
   color: #002953  !important;
+}
+
+.bg-yellow {
+  background-color: #fbd630;
+}
+
+.left-border {
+  border-left: 4px solid #fbd630;
 }
 
 .dark-gradient {
@@ -568,7 +575,7 @@ body {
 }
 
 .text-yellow {
-  color: #15aa9e;
+  color: #fbd630;
 }
 
 .no-m{
@@ -765,12 +772,12 @@ body {
 
 .navbar.active .nav-link:hover,
 .navbar.active .nav-link:focus {
-  color: #15aa9e;
+  color: #fbd630;
   text-decoration: none;
 }
 
 .navbar.active .navbar-brand {
-  color: #15aa9e;
+  color: #fbd630;
 }
 
 .navbar {
@@ -783,7 +790,7 @@ body {
 }
 
 .login-link.active {
-  color: #15aa9e;
+  color: #fbd630;
 }
 
 .nav-item-link {
