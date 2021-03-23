@@ -30,7 +30,7 @@ hr.star-dark {
 }
 
 .accent-color {
-  color:#fbd630;
+  color:#fcbd49;
 }
 
 .secondary-text-color {
@@ -158,12 +158,12 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #002953;
-    background: #fbd630;
+    background: #fcbd49;
     border-radius: 0px !important;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #002953 !important;
-    background: #fbd630;
+    background: #fcbd49;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -655,7 +655,7 @@ a:focus, a:hover, a:active {
 }
 
 .menu-button:hover {
-  color: #fbd630 !important;
+  color: #fcbd49 !important;
 }
 
 .fill {

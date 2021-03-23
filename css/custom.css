@@ -206,7 +206,7 @@ video {
 }
 
 .a:hover  .b{
-  background-color: #fbd630 !important;
+  background-color: #fcbd49 !important;
 }
 
 .a:hover  .c{
@@ -214,11 +214,11 @@ video {
 }
 
 .bg-yellow {
-  background-color: #fbd630;
+  background-color: #fcbd49;
 }
 
 .left-border {
-  border-left: 4px solid #fbd630;
+  border-left: 4px solid #fcbd49;
 }
 
 .dark-gradient {
@@ -575,7 +575,7 @@ body {
 }
 
 .text-yellow {
-  color: #fbd630;
+  color: #fcbd49;
 }
 
 .no-m{
@@ -772,12 +772,12 @@ body {
 
 .navbar.active .nav-link:hover,
 .navbar.active .nav-link:focus {
-  color: #fbd630;
+  color: #fcbd49;
   text-decoration: none;
 }
 
-.navbar.active .navbar-brand {
-  color: #fbd630;
+.navbar.active .navbar-brand { 
+  color: #fcbd49;
 }
 
 .navbar {
@@ -790,7 +790,7 @@ body {
 }
 
 .login-link.active {
-  color: #fbd630;
+  color: #fcbd49;
 }
 
 .nav-item-link {
@@ -807,6 +807,10 @@ body {
 
 .bg-web-blue {
   background-color: #353c66;
+}
+
+.bg-yellow {
+  background-color: #fcbd49;
 }
 
 /* Change navbar styling on small viewports */
