@@ -776,7 +776,7 @@ body {
 
 .navbar.active .nav-link:hover,
 .navbar.active .nav-link:focus {
-  color: #fcbd49;
+  color: #fcbd49 !important;
   text-decoration: none;
 }
 
@@ -820,8 +820,8 @@ body {
 /* Change navbar styling on small viewports */
 @media (max-width: 991.98px) {
   .navbar {
-      background: #002953  !important;
-      color: white !important;
+      background: white  !important;
+      color: #002953 !important;
   }
 
   .navbar .navbar-brand, .navbar .nav-link {

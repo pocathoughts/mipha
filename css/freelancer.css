@@ -15,7 +15,7 @@ h6,
 p {
   font-weight: 100;
   font-family:'Brother-1816-Light', sans-serif;
-  color: #555555;
+  color: #353c66;
 }
 
 hr.star-light,
@@ -130,12 +130,14 @@ section h2 {
   font-size: 80%;
   padding: 0.8rem;
   color: black !important;
+  background-color: white !important;
 }
 
 #mainNav .navbar-toggler:hover {
   font-size: 80%;
   padding: 0.8rem;
   color: #002953 !important;
+  background-color: #fcbd49 !important;
 }
 
 
@@ -337,7 +339,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a1a1a;
+  background-color: #313131;
 }
 
 a:focus, a:hover, a:active {
@@ -354,7 +356,8 @@ a:focus, a:hover, a:active {
 }
 
 .bg-accent {
-  background-color: #15aa9e  !important;
+  background-color: #fcbd49  !important;
+  color: #353c66 !important;
   border-radius: 0 !important;
 }
 
@@ -364,7 +367,7 @@ a:focus, a:hover, a:active {
   border-radius: 0 !important;
 }
 
-.light-background {
+.bg-light {
   background-color: #efefef !important;
   border-radius: 0 !important;
 }
@@ -398,6 +401,17 @@ a:focus, a:hover, a:active {
 }
 
 .btn-bold:hover, .btn-bold:focus, .btn-bold:active {
+  background-color: #fcbd49;
+  border-color: #fcbd49;
+  color: #353c66 !important;
+}
+
+.btn-aquamarine-bold {
+  background-color: #353c66;
+  border-color: #353c66;
+}
+
+.btn-aquamarine-bold:hover, .btn-aquamarine-bold:focus, .btn-aquamarine-bold:active {
   background-color: #15aa9e;
   border-color: #15aa9e;
   color: #353c66 !important;
@@ -408,9 +422,9 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #15aa9e;
-  border-color: #15aa9e;
-  color: #15aa9e !important;
+  background-color: #fcbd49;
+  border-color: #fcbd49;
+  color: #fcbd49 !important;
 }
 
 .btn-primary-outline {
@@ -422,6 +436,28 @@ a:focus, a:hover, a:active {
 }
 
  .btn-primary-outline:hover {
+  background-color: #fcbd49;
+  border-color: #fcbd49;
+  color: white;
+  border-width: 2px;
+  border-radius: 0px !important;
+}
+
+.btn-aquamarine-primary:hover, .btn-aquamarine-primary:focus, .btn-aquamarine-primary:active {
+  background-color: #15aa9e;
+  border-color: #15aa9e;
+  color: #15aa9e !important;
+}
+
+.btn-aquamarine-primary-outline {
+    background-color: transparent;
+    border-color: #0b1641;
+    color: #0b1641;
+    border-width: 2px;
+    border-radius: 0px !important;
+}
+
+ .btn-aquamarine-primary-outline:hover {
   background-color: #15aa9e;
   border-color: #15aa9e;
   color: #999a9e;
@@ -502,6 +538,13 @@ a:focus, a:hover, a:active {
   height: 100vh;
 }
 
+.aquamarine-divider-header-image {
+  background: url('../img/backgrounds/PlatformSunset.jpg'); 
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: 50% 75%;
+}
+
 .new-home-header-image {
   background: url('../img/backgrounds/homePage.png'); 
   background-repeat:no-repeat;
@@ -512,7 +555,7 @@ a:focus, a:hover, a:active {
 }
 
 .new-home-header-image-mobile {
-  background: url('../img/backgrounds/newHomePage.png'); 
+  background: url('../img/backgrounds/HomePage.png'); 
   background-repeat:no-repeat;
   background-size: cover;
   height: 100vh;
@@ -658,6 +701,16 @@ a:focus, a:hover, a:active {
   color: #fcbd49 !important;
 }
 
+.menu-button-aquamarine {
+  background-color: transparent !important;
+  float: right !important;
+  padding: 0.8rem !important;
+}
+
+.menu-button-aquamarine:hover {
+  color: #15aa9e !important;
+}
+
 .fill {
   display: flex;
   justify-content: center;
@@ -678,6 +731,59 @@ a:focus, a:hover, a:active {
 
 @media screen and (min-width: 800px) {
   .mobile-optimize{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .new-home-header-image {
+    background: url('../img/backgrounds/homePage.png'); 
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-position: left center;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .new-home-header-image {
+    background: url('../img/backgrounds/homePage.png'); 
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 100% 50%;
+  }  
+}
+
+@media screen and (max-width: 1000px) {
+  .desktop-optimize-management {
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1000px) {
+  .mobile-optimize-management{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .custom-desktop-optimize {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .custom-mobile-optimize{
     display: none;
   }
 }
